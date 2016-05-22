@@ -1,0 +1,17 @@
+{
+  "name": "m-components",
+  "description": "Component library for mframework",
+  "author": "Liron Shapira <wiseguy@gmail.com> (http://liron.me)",
+  "version": "0.1.0",
+  "main": "transpiled/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liron00/m-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liron00/m-components/issues"
+  },
+  "dependencies": {
+    "mframework": "^0.1.1"
+  }
+}
