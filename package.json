@@ -12,6 +12,7 @@
     "url": "https://github.com/liron00/m-components/issues"
   },
   "dependencies": {
-    "mframework": "^0.1.1"
+    "mframework": "^0.2.1",
+    "moment": "^2.13.0"
   }
 }
