@@ -2,7 +2,7 @@
   "name": "m-components",
   "description": "Component library for mframework",
   "author": "Liron Shapira <wiseguy@gmail.com> (http://liron.me)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "transpiled/index.js",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "mframework": "^0.2.1",
-    "moment": "^2.13.0"
+    "moment": "^2.13.0",
+    "throttle-debounce": "^1.0.1"
   }
 }
