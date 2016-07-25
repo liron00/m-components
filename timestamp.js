@@ -36,6 +36,7 @@ export default class Timestamp extends Component {
     return (
       <timestamp
         style={this.props.style}
+        title={new Date(this.props.timestamp).toString()}
       >
         {this.timestampString}
       </timestamp>
